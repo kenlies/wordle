@@ -68,7 +68,6 @@ def print_blocks(board):
 
 
 def main():
-	#create array & choose random word
 	with open('words.txt') as dict_file:
 		words = dict_file.read().split('\n')
 	word = random.choice(words)
