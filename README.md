@@ -9,6 +9,6 @@ Oh, we didn't have any restrictions in terms of syntax, functions nor indentatio
 use:
 
      gcc/cc main.c
-     ./aout
+     ./a.out
      
      python3 wordle.py
