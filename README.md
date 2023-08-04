@@ -6,7 +6,7 @@ But that version was pretty scuffed, and we sat down with my partner and created
 
 My impl, C, also uses an extra wordlist for selecting the answer word from, whereas the python version uses one. I felt that some of the words in that wordlist were too obscure for being the final answer, so I only accept those as inputs to give clues from, but the answer will be selected from the smaller, more sensible list.
 
-Oh, we didn't have any restrictions in terms of syntax, functions nor indentation. That's why my C impl is so bloated: and me being lazy lmao sorry 🤣💀.
+Oh, we didn't have any restrictions in terms of syntax, functions nor indentation. That's why my C impl is so bloated: and me being lazy lmao sorry. 🤣💀
 
 use:
 
@@ -15,7 +15,7 @@ use:
      
      python3 wordle.py
 
-Oh and I also made a helper program for wordle, for those of you who are interested in cheating. The user interface is not very practical, but alas, it works: I used it to win wordle 😌.
+Oh and I also made a helper program for wordle, for those of you who are interested in cheating. The user interface is not very practical, but alas, it works: I used it to win wordle. 😌
 
 use:
 
