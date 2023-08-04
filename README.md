@@ -6,3 +6,9 @@ But that version was pretty scuffed, and we sat down with my partner and created
 
 Oh, we didn't have any restrictions in terms of syntax, functions nor indentation. That's why my C impl is so bloated, and me being lazy lmao sorry 🤣💀.
 
+use:
+
+     gcc/cc main.c
+     ./aout
+     
+     python3 wordle.py
