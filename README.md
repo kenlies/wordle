@@ -12,3 +12,5 @@ use:
      ./a.out
      
      python3 wordle.py
+
+Oh and I also made a helper program for wordle, for those of you who are interested in cheating. The user interface is not very practical, but alas, it works: I used it to win wordle 😌 just compile and run. 
