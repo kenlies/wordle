@@ -15,7 +15,7 @@ use:
      
      python3 wordle.py
 
-Oh and I also made a helper program for wordle, for those of you who are interested in cheating. You need to re-open the cut wordlist that it creates every time you give it clues as it shortens the list and updates it. The user interface is not very practical, but alas, it works: I used it to win wordle. 😌
+Oh and I also made a helper program for wordle, for those who are interested in cheating. You need to re-open the cut wordlist that it creates every time you give it clues as it shortens the list and updates it. The user interface is not very practical, but alas, it works: I used it to win wordle. 😌
 
 use:
 
